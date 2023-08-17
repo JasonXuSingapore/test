@@ -1,8 +1,0 @@
-x = 43
-ch = 'A'
-y = 1
-print(x>y and ch<'b' and y)
-
-x = 3 
-y = 5
-print(x+y)
