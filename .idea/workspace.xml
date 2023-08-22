@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="ac668484-794a-43af-a43f-dd6fd81c7c55" name="Changes" comment="" />
+=======
+    <list default="true" id="40bc1882-8ed1-4dcb-ab87-7f933756ae37" name="Changes" comment="" />
+>>>>>>> Stashed changes
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,10 +18,16 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
+<<<<<<< Updated upstream
   "customColor": "",
   "associatedIndex": 4
 }]]></component>
   <component name="ProjectId" id="2ULTXk9FOGkYhGhWbvic3RUr7nr" />
+=======
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2U6cuQSDQxiW569zwdP27VBVOKP" />
+>>>>>>> Stashed changes
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,11 +42,19 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< Updated upstream
       <changelist id="ac668484-794a-43af-a43f-dd6fd81c7c55" name="Changes" comment="" />
       <created>1692717904803</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1692717904803</updated>
+=======
+      <changelist id="40bc1882-8ed1-4dcb-ab87-7f933756ae37" name="Changes" comment="" />
+      <created>1692263692935</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692263692935</updated>
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
